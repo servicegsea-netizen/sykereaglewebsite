@@ -1,0 +1,9 @@
+{
+  "name": "G.S.E.A Syker Eagle",
+  "short_name": "GSEA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "icons": [{"src":"/assets/gsea-logo.png","sizes":"1264x1157","type":"image/png"}]
+}
